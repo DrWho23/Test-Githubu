@@ -1,2 +1,4 @@
 Tady je text,
 zkouším jak to su funguje
+
+Teď dodělávám editaci
