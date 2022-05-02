@@ -1,4 +1,6 @@
 Tady je text,
-zkouším jak to su funguje
+zkouším jak to su funguje, nově s větvema
 
 Teď dodělávám editaci
+
+A teď jsem vytvořil větev1
