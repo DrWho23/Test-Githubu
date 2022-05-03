@@ -10,3 +10,5 @@ Zpátky do hlavní větve, možná
 Dál v mainu
 
 Nová větev 3 myslím
+
+Spojení větve 3 s mainem
