@@ -6,3 +6,5 @@ Teď dodělávám editaci
 A teď jsem vytvořil větev1
 
 Zpátky do hlavní větve, možná
+
+Dál v mainu
